@@ -1,2 +1,8 @@
-# creation
-creating a new repository on the command line
+echo "# creation ">> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:butterfli-09/creation.git
+git push -u origin main
+
