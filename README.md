@@ -2,7 +2,7 @@ echo "# creation ">> README.md
 git init
 git add README.md
 git commit -m "Initial commit"
-git branch -M main
-git remote add origin git@github.com:butterfli-09/creation.git
-git push -u origin main
+add origin<https://github.com/butterfli-09/GitHub/blob/e029b02a753b2b2bd307ae0dcbd89d37f9ee5aee/README.md>
+git push -u origin master
+
 
